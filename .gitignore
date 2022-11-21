@@ -1,2 +1,10 @@
+# python sheesh
 .venv
+__pycache__
+
+# emacs sheesh
+*~
+\#*\#
+
+# it's here as long as i'm testing that programm :)
 *.mp3
